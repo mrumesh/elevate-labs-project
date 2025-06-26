@@ -51,12 +51,14 @@ Python Example:
      Most active investors
      Sectors favored by each Shark
      Co-investment patterns
+     
 🔹 STEP 4: Data Visualization in Tableau
   Bar Chart: Total Investment by Industry
   Pie Chart: Deal Distribution by Funding Stage
   Line Chart: Investment Trend Over Seasons (if multiple seasons)
   Heatmap: Industry vs Shark Participation
   Stacked Bar: Founder type (solo/co-founder/gender) vs Deal Success
+  
 🔹 STEP 5: Report & Summary
 Insights:
   Top 5 industries by funding
