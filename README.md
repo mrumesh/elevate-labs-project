@@ -66,6 +66,7 @@ Insights:
   Best-performing funding stages
   Sharks with highest investments
   Visual Dashboard Screenshots
+  
 ✅ Deliverables
     Cleaned dataset (CSV/Excel)
     Tableau .twbx or .pdf dashboard
