@@ -10,6 +10,7 @@ Action:
   Download datasets from sources like Kaggle or GitHub:
   Search for “Shark Tank India Dataset CSV”
   Example fields to look for: Startup Name, Industry, Ask Amount, Invested Amount, Equity Given, Founders, Stage, Sharks, Deal, Country, etc.
+  
 🔹 STEP 2: Data Cleaning & Preparation (Using Python or Excel)
    Tools: Python (Pandas) or Excel
 
